@@ -7,7 +7,7 @@ I'm a UX/UI developer based in Lisbon, with a Computer Science degree from the U
 **[Personal portfolio](https://martacruz-design.vercel.app)**
 An interactive, space-themed portfolio that brings together web design and digital illustration. Built with HTML, CSS, JavaScript, Bootstrap and GSAP.
 
-**[Prisma PT]([live link])**
+**[Prisma PT](https://prisma-pt.vercel.app/)**
 A mobile news app that helps young adults understand Portuguese politics through verified news and side-by-side party positions. Started with research with 33 people, prototyped in Figma, then coded in HTML, CSS, JavaScript and Bootstrap.
 
 ## What I work with
