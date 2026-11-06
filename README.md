@@ -6,7 +6,7 @@ Computer Science graduate from the University of Bath, based in Lisbon. I like w
 ## Projects
 
 Data Analysis
-- **Traffic volume forecasting** – cleaned six years of hourly traffic data and forecast traffic with Random Forest and XGBoost (BI4ALL internship, revisited in 2026)
+- **[Traffic volume forecasting](https://github.com/MC241/Traffic-Volume-Forecasting)** – cleaned six years of hourly traffic data and forecast traffic with Random Forest and XGBoost (BI4ALL internship, revisited in 2026)
 
 UX/UI
 - **[Personal portfolio](https://martacruz-design.vercel.app)**
