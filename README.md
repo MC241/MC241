@@ -1,9 +1,14 @@
 # Hi, I'm Marta 👋
 
-I'm a UX/UI developer based in Lisbon, with a Computer Science degree from the University of Bath. I enjoy working across design and development, from researching with users and prototyping in Figma to building the final version myself.
+
+Computer Science graduate from the University of Bath, based in Lisbon. I like working out why something isn't working and making it clear, whether that's messy data, a model or an interface.
 
 ## Projects
 
+Data Analysis
+- **Traffic volume forecasting** – cleaned six years of hourly traffic data and forecast traffic with Random Forest and XGBoost (BI4ALL internship, revisited in 2026)
+
+UX/UI
 **[Personal portfolio](https://martacruz-design.vercel.app)**
 An interactive, space-themed portfolio that brings together web design and digital illustration. Built with HTML, CSS, JavaScript, Bootstrap and GSAP.
 
@@ -12,7 +17,8 @@ A mobile news app that helps young adults understand Portuguese politics through
 
 ## What I work with
 
-Figma · HTML · CSS · JavaScript · Bootstrap · GSAP · Git · Python
+Python (pandas, scikit-learn, XGBoost, TensorFlow) · SQL · Jupyter ·
+HTML · CSS · JavaScript · Figma
 
 ## Get in touch
 
