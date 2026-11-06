@@ -9,10 +9,10 @@ Data Analysis
 - **Traffic volume forecasting** – cleaned six years of hourly traffic data and forecast traffic with Random Forest and XGBoost (BI4ALL internship, revisited in 2026)
 
 UX/UI
-**[Personal portfolio](https://martacruz-design.vercel.app)**
+- **[Personal portfolio](https://martacruz-design.vercel.app)**
 An interactive, space-themed portfolio that brings together web design and digital illustration. Built with HTML, CSS, JavaScript, Bootstrap and GSAP.
 
-**[Prisma PT](https://prisma-pt.vercel.app/)**
+- **[Prisma PT](https://prisma-pt.vercel.app/)**
 A mobile news app that helps young adults understand Portuguese politics through verified news and side-by-side party positions. Started with research with 33 people, prototyped in Figma, then coded in HTML, CSS, JavaScript and Bootstrap.
 
 ## What I work with
